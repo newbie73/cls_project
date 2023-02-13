@@ -71,6 +71,7 @@ main{
 }
 .inmain_2{
     width: 100%;
-    height: 100%;
+    height: 280px;
+    padding: 0px 0px 0px 20%;
     background: linear-gradient(180deg, rgba(204,244,255,1) 0%, rgba(255,255,255,1) 100%);
 }
