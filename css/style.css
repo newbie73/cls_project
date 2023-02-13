@@ -7,7 +7,7 @@ body {
 header{
     width: 100%;
     height: 85px;
-    padding: 20px 0px 0px 250px;
+    padding: 10px 0px 0px 20%;
 }
 
 .logo{
@@ -18,8 +18,8 @@ header{
     color: white;
 }
 .links{
-    margin-left: 430px;
-    margin-top: -20px;
+    margin-left: 30%;
+    margin-top: -10px;
 }
 .link{
     margin-left: 20px;
@@ -43,7 +43,7 @@ main{
 .inmain_1{
     width: 100%;
     height: 320px;
-    padding: 0px 0px 0px 250px;
+    padding: 0px 0px 0px 20%;
 }
 .title_1{
     font-family: 'Roboto', sans-serif;
@@ -56,7 +56,7 @@ main{
     float: left;
     width: 400px;
     height: 100%;
-    margin-right: 50px;
+    margin-right: 2%;
 }
 .pr{
     color: white;
